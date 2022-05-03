@@ -1,6 +1,6 @@
 ## About Product Scanner Platform
 
-Product Scanner Platform is a Laravel based, simple Cash Register with "scanning" function. It uses the [Product Scanner API] (https://github.com/weqqer/product-scanner-api).
+Product Scanner Platform is a Laravel based, simple Cash Register with "scanning" function. It uses the [Product Scanner API](https://github.com/weqqer/product-scanner-api).
 
 ## Setup
 
