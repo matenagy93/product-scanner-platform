@@ -125,7 +125,7 @@ class CashRegisterController extends Controller
 		}
 	}
 	
-	#Page: scanning
+	#Page: details of scanning
 	public function scanDetails($scan_token)
 	{
 		if($this->scan_token !== NULL) { return redirect()->route('scan'); }
